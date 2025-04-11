@@ -1,9 +1,9 @@
 
 ### Hi there 👋, I'm M. Maulana Saldi
 
-🚀 Informatics student who is currently focusing on learning Java and Spring Framework
-🛠️ Currently building a backend development portfolio
-🌱 Believes that the learning process doesn't have to be instant, the important thing is consistency
+🚀 Mahasiswa Informatika yang sedang fokus belajar Java dan Spring Framework  
+🛠️ Sedang membangun portofolio backend development  
+🌱 Percaya bahwa proses belajar nggak harus instan, yang penting konsisten  
 
 ---
 
